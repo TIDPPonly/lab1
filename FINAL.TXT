@@ -1,1 +1,79 @@
+commit c91983f5dbb99092cb7ed0f9154f6fbca01fd486 (HEAD -> master, origin/master)
+Author: TIDPPonly <113468147+TIDPPonly@users.noreply.github.com>
+Date:   Sat Sep 17 20:44:11 2022 +0300
+
+    Create FINAL.TXT
+
+commit 0da70cbc195514cefd6f6119413bed3b6dfd7cc8
+Merge: a75c2fa ee69d4e
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:42:11 2022 +0300
+
+    Resolved merge conflict by incorporating both suggestions.
+
+commit ee69d4eb616e5ea25f86220267185729634c0cbe (origin/branch2, branch2)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:35:32 2022 +0300
+
+    adding files from branch2
+
+commit a75c2fa318930f0c3ea218982638b4ec213b09e1 (origin/branch1, branch1)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:33:43 2022 +0300
+
+:
+commit c91983f5dbb99092cb7ed0f9154f6fbca01fd486 (HEAD -> master, origin/master)
+Author: TIDPPonly <113468147+TIDPPonly@users.noreply.github.com>
+Date:   Sat Sep 17 20:44:11 2022 +0300
+
+    Create FINAL.TXT
+
+commit 0da70cbc195514cefd6f6119413bed3b6dfd7cc8
+Merge: a75c2fa ee69d4e
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:42:11 2022 +0300
+
+    Resolved merge conflict by incorporating both suggestions.
+
+commit ee69d4eb616e5ea25f86220267185729634c0cbe (origin/branch2, branch2)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:35:32 2022 +0300
+
+    adding files from branch2
+
+commit a75c2fa318930f0c3ea218982638b4ec213b09e1 (origin/branch1, branch1)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:33:43 2022 +0300
+
+:...skipping...
+commit c91983f5dbb99092cb7ed0f9154f6fbca01fd486 (HEAD -> master, origin/master)
+Author: TIDPPonly <113468147+TIDPPonly@users.noreply.github.com>
+Date:   Sat Sep 17 20:44:11 2022 +0300
+
+    Create FINAL.TXT
+
+commit 0da70cbc195514cefd6f6119413bed3b6dfd7cc8
+Merge: a75c2fa ee69d4e
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:42:11 2022 +0300
+
+    Resolved merge conflict by incorporating both suggestions.
+
+commit ee69d4eb616e5ea25f86220267185729634c0cbe (origin/branch2, branch2)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:35:32 2022 +0300
+
+    adding files from branch2
+
+commit a75c2fa318930f0c3ea218982638b4ec213b09e1 (origin/branch1, branch1)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:33:43 2022 +0300
+
+    adding files from branch1
+
+commit c4b6c6666dcfa05ce0c7b1e9aafe6cae449b2e82 (origin/branch5, origin/branch4, origin/branch3, branch5, branch4, branch3)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Sat Sep 17 20:31:54 2022 +0300
+
+    first commit
 
